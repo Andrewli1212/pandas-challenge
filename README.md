@@ -2,8 +2,8 @@
 
 To receive all points, the written report presents a cohesive written analysis that:
 •	Summarizes the analysis (5 points)
-    
-    The data consisted of information about each school and their student’s reading and math scores. It also consists of each school’s budget. Based on the information given, we are tasked to show each school’s performance trends. 
+
+The data consisted of information about each school and their student’s reading and math scores. It also consists of each school’s budget. Based on the information given, we are tasked to show each school’s performance trends. 
 
 •	Draws two correct conclusions or comparisons from the calculations (10 points)
 
